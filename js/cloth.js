@@ -232,7 +232,7 @@ function start() {
     boundsx = canvas.width - 1;
     boundsy = canvas.height - 1;
 
-    ctx.strokeStyle = '#888';
+    ctx.strokeStyle = '#0f0';
   
     cloth = new Cloth();
   
